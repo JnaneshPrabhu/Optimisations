@@ -2,6 +2,21 @@
 # Equation: = f(x,y) = (x**2 + y -11)**2 + (x + y**2 -7)**2
 # This has got 4 solutions, lets see which one we get???
 
+'''
+
+git init
+
+git add .
+
+git commit -m " test this app"
+
+git remote add origin https://github.com/JnaneshPrabhu/Optimisations.git 
+
+git push --set-upstream origin master
+
+
+
+'''
 
 import numpy as np 
 import matplotlib.pyplot as plt 
